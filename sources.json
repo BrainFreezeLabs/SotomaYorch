@@ -5,7 +5,19 @@
 		{
 			"name": "Nuba",
 			"desc": "Juego de mesa asíncrono contra el juego (CPU)",
-			"img": "https://sotomayorch.files.wordpress.com/2015/07/01_nuba.jpg?w=1024&h=768",
+			"img": "https://sotomayorch.files.wordpress.com/2016/05/69_nuba.png",
+			"src": "http://cyrohx.itch.io/nuba"
+		},
+		{
+			"name": "Nuba",
+			"desc": "Juego de mesa asíncrono contra el juego (CPU)",
+			"img": "https://sotomayorch.files.wordpress.com/2016/05/72_navidad.png",
+			"src": "http://cyrohx.itch.io/nuba"
+		},
+		{
+			"name": "Nuba",
+			"desc": "Juego de mesa asíncrono contra el juego (CPU)",
+			"img": "https://sotomayorch.files.wordpress.com/2016/05/70_xayu.png",
 			"src": "http://cyrohx.itch.io/nuba"
 		}
 	]
