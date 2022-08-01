@@ -1,24 +1,24 @@
 {
-	"about":"Soy Yorch (alias SotomaYorch). Mi interés en la industria es encontrar nuevas formas de interacción entre humanos por medio de juegos.",
-	"aboutimg": "https://i.pinimg.com/originals/fe/af/24/feaf245687b27f849ee7e454827fa487.png",
-	"portfolio": [
-		{
-			"name": "Nuba",
-			"desc": "Juego de mesa asíncrono contra el juego (CPU)",
-			"img": "https://sotomayorch.files.wordpress.com/2016/05/69_nuba.png",
-			"src": "http://cyrohx.itch.io/nuba"
-		},
-		{
-			"name": "Nuba",
-			"desc": "Juego de mesa asíncrono contra el juego (CPU)",
-			"img": "https://sotomayorch.files.wordpress.com/2016/05/72_navidad.png",
-			"src": "http://cyrohx.itch.io/nuba"
-		},
-		{
-			"name": "Nuba",
-			"desc": "Juego de mesa asíncrono contra el juego (CPU)",
-			"img": "https://sotomayorch.files.wordpress.com/2016/05/70_xayu.png",
-			"src": "http://cyrohx.itch.io/nuba"
-		}
-	]
+  "about": "Soy Yorch (alias SotomaYorch). Mi interés en la industria es encontrar nuevas formas de interacción entre humanos por medio de juegos.",
+  "aboutimg": "https://i.pinimg.com/originals/fe/af/24/feaf245687b27f849ee7e454827fa487.png",
+  "portfolio": [
+    {
+      "name": "Nuba",
+      "desc": "Juego de mesa asíncrono contra el juego (CPU)",
+      "img": "https://sotomayorch.files.wordpress.com/2016/05/69_nuba.png",
+      "src": "http://cyrohx.itch.io/nuba"
+    },
+    {
+      "name": "Nuba",
+      "desc": "Juego de mesa asíncrono contra el juego (CPU)",
+      "img": "https://sotomayorch.files.wordpress.com/2016/05/72_navidad.png",
+      "src": "http://cyrohx.itch.io/nuba"
+    },
+    {
+      "name": "Nuba",
+      "desc": "Hola Mundo :D",
+      "img": "https://sotomayorch.files.wordpress.com/2016/05/70_xayu.png",
+      "src": "http://cyrohx.itch.io/nuba"
+    }
+  ]
 }
